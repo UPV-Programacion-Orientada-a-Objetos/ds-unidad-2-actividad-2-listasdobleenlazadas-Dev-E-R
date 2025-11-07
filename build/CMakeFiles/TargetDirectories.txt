@@ -1,0 +1,7 @@
+/home/sora/Documents/dataestructure/ds-unidad-2-actividad-2-listasdobleenlazadas-Dev-E-R/build/CMakeFiles/decodificador.dir
+/home/sora/Documents/dataestructure/ds-unidad-2-actividad-2-listasdobleenlazadas-Dev-E-R/build/CMakeFiles/edit_cache.dir
+/home/sora/Documents/dataestructure/ds-unidad-2-actividad-2-listasdobleenlazadas-Dev-E-R/build/CMakeFiles/rebuild_cache.dir
+/home/sora/Documents/dataestructure/ds-unidad-2-actividad-2-listasdobleenlazadas-Dev-E-R/build/CMakeFiles/list_install_components.dir
+/home/sora/Documents/dataestructure/ds-unidad-2-actividad-2-listasdobleenlazadas-Dev-E-R/build/CMakeFiles/install.dir
+/home/sora/Documents/dataestructure/ds-unidad-2-actividad-2-listasdobleenlazadas-Dev-E-R/build/CMakeFiles/install/local.dir
+/home/sora/Documents/dataestructure/ds-unidad-2-actividad-2-listasdobleenlazadas-Dev-E-R/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/decodificador.dir/src/main.cpp.o -o decodificador 
